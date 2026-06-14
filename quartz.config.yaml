@@ -270,6 +270,12 @@ plugins:
       darkMode: auto
       exportPadding: 20
     order: 50
+  - source: github:quartz-community/fonts
+    enabled: true
+    options:
+      useThemeFonts: true
+      fontOrigin: googleFonts
+    order: 60
 layout:
   groups:
     toolbar:
