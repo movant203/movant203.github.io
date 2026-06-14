@@ -1,5 +1,5 @@
 ---
-title: 💻 movant203's notes
+title: movant203's notes
 discription: an ordinary index.html
 ---
 ## Introduction
