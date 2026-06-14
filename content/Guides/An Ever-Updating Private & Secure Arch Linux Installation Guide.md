@@ -1,10 +1,10 @@
 ---
-title: An Ever-Updating Private & Secure Arch Linux Installation Guide
-discription: 
+title: An Ever-Updating* Private & Secure Arch Linux Installation Guide
+discription:
 draft: false
 ---
 
-Ok so this guide actually requires a lot of rework now that my setup has changed drastically and there's a need for a new blog explaining why I now use Secureblue instead of Arch Linux.
+Ok so this guide actually requires a lot of rework now that my setup has changed drastically and there's a need for a new blog explaining why I now use Secureblue instead of Arch Linux. Essentially, here's what has changed - systemd-boot instead of grub, not compromising on luks2 by using PBKDF2 instead of Argon2id, using apparmor.d for AppArmor profiles, giving up on bootable btrfs snapshots. I will update this guide soon. Bit of an ironical situation, innit?
 
 ### Introduction
 This guide delves into the wilderness of installing Arch Linux while keeping privacy (which is already there unless you install something specifically privacy invasive) and security (which is NOT there unless you make an effort for it) in mind. We are going the Do-It-Yourself route, as God intended. I know that this is not going to be easy for many of you, especially for those of you who are not very tech-savvy, but trust me, it is going to be something you are really proud of once we are done with it. You are about to taste the joy of building something yourself and seeing it work like you wanted.

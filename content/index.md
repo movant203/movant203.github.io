@@ -22,11 +22,8 @@ I wanted to make a blog site for so long, but I didn't. It was not that I could 
 
 So yeah, this site is made using [Quartz](https://quartz.jzhao.xyz/) and is freely hosted on [GitHub Pages](https://pages.github.com/) with a free domain generously provided by [GitHub](https://github.com/). You can easily find the source code for all of this on my [GitHub profile](https://github.com/movant203).
 
-Update: I have migrated to Quartz 5 finally and I am still learning about it.
-
 ## My Socials
 
 GitHub: https://github.com/movant203
 
-Twitter/X: https://x.com/@movant203
 

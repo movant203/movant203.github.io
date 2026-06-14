@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: null
   locale: en-US
   baseUrl: movant203.github.io
   ignorePatterns:
@@ -223,8 +223,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        Source Code: https://github.com/movant203/movant203.github.io
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer
