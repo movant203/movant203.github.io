@@ -4,8 +4,8 @@
     "alias-redirects": {
       "source": "github:quartz-community/alias-redirects",
       "resolved": "https://github.com/quartz-community/alias-redirects.git",
-      "commit": "39231fd8a3b477ec7045b7df91898da9c919d134",
-      "installedAt": "2026-06-08T11:07:13.000Z"
+      "commit": "73a98dda7e4f55239310833299d91daf8611349f",
+      "installedAt": "2026-06-19T09:51:39.310Z"
     },
     "article-title": {
       "source": "github:quartz-community/article-title",
@@ -206,9 +206,9 @@
         "subdir": "plugin"
       },
       "resolved": "https://github.com/saberzero1/quartz-themes.git",
-      "commit": "e258410285f82594743fd23f39132b6a0947bed3",
+      "commit": "945135e8b70576753d0591e1713fe56553100b3d",
       "subdir": "plugin",
-      "installedAt": "2026-06-08T11:08:18.464Z"
+      "installedAt": "2026-06-19T09:52:54.071Z"
     },
     "reader-mode": {
       "source": "github:quartz-community/reader-mode",
